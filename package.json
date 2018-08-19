@@ -1,0 +1,14 @@
+{
+  "name": "c12lyn_website",
+  "version": "1.0.0",
+  "description": "Fun Mockup for Carolyn's Future Twitch Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
